@@ -15,15 +15,18 @@ Business Model:
 - Subscription Plans: Offer premium services such as advanced analytics, legal support, and asset management.
 
 Industry Examples: 
+
 Mantra in Dubai has successfully implemented blockchain for real estate tokenization. Roofi in the USA has secured funding to disrupt real estate ownership using similar technology.
 
 Future Scope:
+
 Nested Fragmentation of Real Estate: Enable hierarchical fragmentation of properties, where: An apartment can be fragmented into flats. Each flat can further be fragmented for multiple tenants or co-owners. Cross-Chain Asset Interoperability: Allow tokenized assets to be traded across different blockchain networks, increasing liquidity and reach. Integration with DeFi: Provide lending, borrowing, and staking options for tokenized real estate assets.
 
 Tech Stack:
 JavaScript with Aptos for blockchain development and tokenization. React for a user-friendly and dynamic frontend interface.
 
 Developer Contact:
+
 Sonakshi  Email: [sonakshiganga@gmail.com] Phone: [8088773723] LinkedIn: [http://linkedin.com/in/sonakshi-sonu-066b95296] GitHub: [https://github.com/Sonakshinaidu]
 
 Vignesh M Email: [mvignesh.byl@gmail.com] Phone: [9353536417] LinkedIn: [https://www.linkedin.com/in/vignesh-m-207a24340] GitHub: [https://github.com/Vigneshm2004]
