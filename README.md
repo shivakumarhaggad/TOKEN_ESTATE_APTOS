@@ -1,6 +1,7 @@
 Real Estate Tokenizer
 
 Vision:
+
 Our vision is to revolutionize real estate transactions by digitalizing properties and making payments more secure, transparent, and efficient using blockchain technology. We aim to provide a seamless, decentralized platform for property owners, investors, and tenants to tokenize and trade real estate assets globally.
 
 Features:
