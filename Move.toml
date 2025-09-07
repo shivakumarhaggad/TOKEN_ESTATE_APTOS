@@ -1,0 +1,15 @@
+[package]
+name = "real_estate_tokenizer"
+version = "1.0.0"
+authors = ["Hackathon Team"]
+
+[addresses]
+real_estate = "_"
+
+[dev-addresses]
+real_estate = "0x42"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
